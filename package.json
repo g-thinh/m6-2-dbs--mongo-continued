@@ -12,6 +12,7 @@
     "@reach/visually-hidden": "^0.10.0",
     "@tippy.js/react": "^3.1.1",
     "concurrently": "^5.1.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "morgan": "^1.10.0",
     "react": "16.12.0",
